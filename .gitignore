@@ -1,0 +1,4 @@
+.jsbeautifyrc
+node_modules
+.vscode
+dist
